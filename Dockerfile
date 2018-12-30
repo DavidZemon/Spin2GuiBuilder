@@ -11,6 +11,7 @@ RUN apt-get update && apt-get install --yes --no-install-recommends \
         libxext6 \
         libxft2 \
         libxss1 \
+        xvfb \
         gcc \
         libc6-dev \
         git-core \
