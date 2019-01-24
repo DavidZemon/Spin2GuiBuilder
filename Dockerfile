@@ -7,6 +7,8 @@ RUN apt-get update && apt-get install --yes --no-install-recommends \
         flex \
         bison \
         pandoc \
+        texlive-latex-recommended \
+        texlive-fonts-recommended \
         libx11-6 \
         xxd \
         libxext6 \
