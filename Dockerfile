@@ -6,6 +6,7 @@ RUN apt-get update && apt-get install --yes --no-install-recommends \
         make \
         flex \
         bison \
+        pandoc \
         libx11-6 \
         xxd \
         libxext6 \
