@@ -9,6 +9,7 @@ RUN apt-get update && apt-get install --yes --no-install-recommends \
         pandoc \
         texlive-latex-recommended \
         texlive-fonts-recommended \
+        lmodern \
         libx11-6 \
         xxd \
         libxext6 \
