@@ -15,6 +15,7 @@ RUN apt-get update && apt-get install --yes --no-install-recommends \
         libxext6 \
         libxft2 \
         libxss1 \
+        tcl-dev \
         xvfb \
         gcc \
         libc6-dev \
